@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522328264 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\coding experience\nn矩阵转动\nn矩阵顺时钟转动90度\main.cpp
+	<stdio.h>
+	<iostream>
+	<sstream>
+	<string>
+	<unordered_map>
+	<vector>
+	<list>
+	<queue>
+

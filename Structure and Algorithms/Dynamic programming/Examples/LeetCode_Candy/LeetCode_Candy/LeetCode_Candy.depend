@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523302169 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\dynamic programming\examples\leetcode_candy\leetcode_candy\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<algorithm>
+

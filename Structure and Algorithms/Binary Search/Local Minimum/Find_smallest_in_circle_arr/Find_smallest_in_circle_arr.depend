@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521742510 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\binary search\local minimum\find_smallest_in_circle_arr\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

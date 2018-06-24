@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521908200 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\tree and binary tree\layer_traversal\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

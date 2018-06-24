@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522360185 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\hash and map\hash_example_unordered_hash\compare_two_strings\compare_two_strings\main.cpp
+	<iostream>
+	<unordered_map>
+

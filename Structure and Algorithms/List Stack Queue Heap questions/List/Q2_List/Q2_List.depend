@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522249762 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\q2_list\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<stdio.h>
+

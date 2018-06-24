@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522799842 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\list stack queue heap questions\queue\slide_window\slide_window\main.cpp
+	<iostream>
+	<deque>
+	<vector>
+

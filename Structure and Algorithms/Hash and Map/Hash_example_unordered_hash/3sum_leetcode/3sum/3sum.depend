@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522105677 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\hash and map\3sum_leetcode\3sum\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<algorithm>
+	<string>
+	<hash_map>
+	<map>
+

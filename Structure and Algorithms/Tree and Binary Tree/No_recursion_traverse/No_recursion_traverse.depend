@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521898153 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\tree and binary tree\no_recursion_traverse\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+

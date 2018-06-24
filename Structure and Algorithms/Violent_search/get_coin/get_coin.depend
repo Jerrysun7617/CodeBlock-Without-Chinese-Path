@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522011328 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\violent_search\get_coin\main.cpp
+	<cstdio>
+	<iostream>
+	<cmath>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521838848 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\tree and binary tree\preprint_inorder_posterprint\main.cpp
+	<iostream>
+	<stack>
+	<vector>
+

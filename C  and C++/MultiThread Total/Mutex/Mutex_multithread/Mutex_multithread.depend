@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527008527 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\multithread total\mutex\mutex_multithread\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+

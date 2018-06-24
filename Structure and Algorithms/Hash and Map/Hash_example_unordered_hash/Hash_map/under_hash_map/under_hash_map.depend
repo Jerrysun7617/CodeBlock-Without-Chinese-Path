@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522001681 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\hash and map\hash_map\under_hash_map\main.cpp
+	<unordered_map>
+	<iostream>
+	<string>
+

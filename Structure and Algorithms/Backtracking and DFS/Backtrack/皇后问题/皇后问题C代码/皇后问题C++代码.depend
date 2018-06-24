@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1521145321 source:g:\jobs total folder\interview-questions-total-folder-master\编程学习汇总\面试题分类整理总文件夹\c与c++类\随机数方法\皇后问题c++代码\main.cpp
+	<iostream>
+	<time.h>
+
+1521145635 source:g:\jobs total folder\interview-questions-total-folder-master\编程学习汇总\面试题分类整理总文件夹\数据结构与算法类\回溯算法与dfs\皇后问题\皇后问题c代码\main.cpp
+	<iostream>
+	<cmath>
+	<time.h>
+
+1521149235 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\回溯算法与dfs\皇后问题\皇后问题c代码\main.cpp
+	<iostream>
+	<cmath>
+	<time.h>
+
+1521149235 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\backtracking and dfs\backtrack\皇后问题\皇后问题c代码\main.cpp
+	<iostream>
+	<cmath>
+	<time.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527539846 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\multithreads\deadlock\deadlock\main.cpp
+	<iostream>
+	<mutex>
+	<thread>
+	<mutex>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521815902 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\随机数方法\随机数\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522932613 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\backtracking and dfs\backtrack\find all possible sequence\find all string sort squence\main.cpp
+	<iostream>
+	<vector>
+

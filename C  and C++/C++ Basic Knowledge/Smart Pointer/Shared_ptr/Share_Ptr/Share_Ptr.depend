@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528717640 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\smart pointer\shared_ptr\share_ptr\main.cpp
+	<iostream>
+	<memory>
+

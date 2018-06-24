@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1521646908 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\list questions\circle list insert one value\circle_list_insert\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<algorithm>
+

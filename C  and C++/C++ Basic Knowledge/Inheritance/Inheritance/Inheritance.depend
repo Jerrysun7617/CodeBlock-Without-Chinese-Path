@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1528726568 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\inheritance\inheritance\main.cpp
+	<iostream>
+	"Daughter.h"
+	"Mother.h"
+
+1524958722 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\inheritance\inheritance\daughter.cpp
+	<iostream>
+	"Daughter.h"
+
+1524958351 g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\inheritance\inheritance\daughter.h
+	"Mother.h"
+
+1524958674 g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\inheritance\inheritance\mother.h
+
+1524958722 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\c++ basic knowledge\inheritance\inheritance\mother.cpp
+	<iostream>
+	"Mother.h"
+

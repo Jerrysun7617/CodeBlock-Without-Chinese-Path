@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521211180 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\c  and c++\string提取和相关操作\字符串提取\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+

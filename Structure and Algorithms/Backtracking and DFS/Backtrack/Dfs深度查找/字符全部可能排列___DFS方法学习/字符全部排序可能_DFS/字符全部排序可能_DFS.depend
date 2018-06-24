@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522014812 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\回溯算法与dfs\dfs深度查找\字符全部可能排列___dfs方法学习\字符全部排序可能_dfs\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+
+1522016181 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\backtracking and dfs\backtrack\dfs深度查找\字符全部可能排列___dfs方法学习\字符全部排序可能_dfs\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

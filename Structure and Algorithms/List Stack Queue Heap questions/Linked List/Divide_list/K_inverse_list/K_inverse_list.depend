@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521730672 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\list questions\divide_list\k_inverse_list\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1522100833 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\hash and map\hash_example\hash_example\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<unordered_map>
+	<vector>
+

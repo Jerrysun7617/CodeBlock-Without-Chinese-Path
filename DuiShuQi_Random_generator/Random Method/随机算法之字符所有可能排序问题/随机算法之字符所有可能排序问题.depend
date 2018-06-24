@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522523340 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\duishuqi_random_generator\random method\随机算法之字符所有可能排序问题\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<vector>
+	<stdio.h>
+	<string.h>
+

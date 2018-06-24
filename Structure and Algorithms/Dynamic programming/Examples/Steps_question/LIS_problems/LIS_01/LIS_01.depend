@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522628857 source:g:\jobs total folder\interview-questions-total-folder-master\codeblock without chinese path\structure and algorithms\dynamic programming\examples\steps_question\lis_problems\lis_01\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+
